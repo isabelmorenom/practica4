@@ -1,4 +1,3 @@
 Este es el fichero fuente
 para la practica4
 Se va a crear un tag
-Esta es la corrección urgente en el main ahora
